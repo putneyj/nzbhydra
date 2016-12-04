@@ -10,6 +10,7 @@ categories = Bunch.fromDict([{"name": 'na', "pretty": "N/A", "supportsById": Fal
                              {"name": 'tv', "pretty": "TV", "supportsById": True, "mayBeSelected": True},
                              {"name": 'tvhd', "pretty": "TV HD", "supportsById": True, "mayBeSelected": True},
                              {"name": 'tvsd', "pretty": "TV SD", "supportsById": True, "mayBeSelected": True},
+                             {"name": 'tvsports', "pretty": "TV Sports", "supportsById": False, "mayBeSelected": True},
                              {"name": 'anime', "pretty": "Anime", "supportsById": False, "mayBeSelected": True},
                              {"name": 'audio', "pretty": "Audio", "supportsById": False, "mayBeSelected": True},
                              {"name": 'flac', "pretty": "Audio - Lossless", "supportsById": False, "mayBeSelected": True},

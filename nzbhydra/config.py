@@ -347,6 +347,19 @@ initialConfig = {
                 "requiredRegex": None,
                 "forbiddenRegex": None
             },
+            "tvsports": {
+                "applyRestrictions": "both",
+                "min": 250,
+                "max": 10000,
+                "newznabCategories": [
+                    5060
+                ],
+                "forbiddenWords": [],
+                "requiredWords": None,
+                "ignoreResults": "never",
+                "requiredRegex": None,
+                "forbiddenRegex": None
+            },
             "anime": {
                 "applyRestrictions": "both",
                 "min": 50,
